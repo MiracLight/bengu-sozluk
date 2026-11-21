@@ -1,0 +1,382 @@
+[
+ {
+  "id": "bengu",
+  "madde": "bengü",
+  "tur": "kelime",
+  "koken": "T",
+  "donem": [
+   "islam-oncesi"
+  ],
+  "yazilis": {
+   "ceviri": "beŋgü"
+  },
+  "anlamlar": [
+   "Ebedî, sonsuz, ölümsüz.",
+   "Kalıcı, sürekli olan."
+  ],
+  "tamlamalar": [
+   "bengü taş (ebedî taş, yazıt)",
+   "bengü su (ölümsüzlük suyu, âb-ı hayat)"
+  ],
+  "ornekler": [
+   {
+    "metin": "bengü taş tokıtdım",
+    "aciklama": "ebedî taşı diktirdim, yazdırdım",
+    "kaynak": {
+     "yazar": "Yollug Tigin (kâtip)",
+     "eser": "Kül Tigin Yazıtı",
+     "yuzyil": "VIII. yy (732)",
+     "tur": "yazıt"
+    }
+   }
+  ],
+  "ilgili": [
+   "tengri",
+   "kut"
+  ]
+ },
+ {
+  "id": "tengri",
+  "madde": "Tengri",
+  "tur": "kelime",
+  "koken": "T",
+  "donem": [
+   "islam-oncesi",
+   "gecis"
+  ],
+  "yazilis": {
+   "ceviri": "teŋri"
+  },
+  "anlamlar": [
+   "Gök; gök tanrısı, Tanrı.",
+   "Günümüz Türkçesindeki \"Tanrı\" kelimesinin eski biçimi."
+  ],
+  "tamlamalar": [
+   "Tengri teg (Tanrı gibi)",
+   "Tengri kut (Tanrı'nın verdiği talih)"
+  ],
+  "ornekler": [
+   {
+    "metin": "Teŋri teg teŋride bolmış Türk Bilge Kagan",
+    "aciklama": "Tanrı gibi, gökte olmuş (Tanrı tarafından yaratılmış) Türk Bilge Kağan",
+    "kaynak": {
+     "yazar": "Yollug Tigin (kâtip)",
+     "eser": "Bilge Kağan Yazıtı",
+     "yuzyil": "VIII. yy (735)",
+     "tur": "yazıt"
+    }
+   }
+  ],
+  "ilgili": [
+   "bengu",
+   "kut"
+  ]
+ },
+ {
+  "id": "kut",
+  "madde": "kut",
+  "tur": "kelime",
+  "koken": "T",
+  "donem": [
+   "islam-oncesi",
+   "gecis"
+  ],
+  "yazilis": {
+   "osmanli": "قوت",
+   "ceviri": "ḳut"
+  },
+  "anlamlar": [
+   "Talih, baht, mutluluk.",
+   "Tanrı tarafından verildiğine inanılan hükmetme yetkisi."
+  ],
+  "tamlamalar": [
+   "kutlu (mutlu, uğurlu)",
+   "kutadgu (mutluluk veren)"
+  ],
+  "ornekler": [
+   {
+    "metin": "Kutadgu Bilig",
+    "aciklama": "eserin adı: \"mutluluk veren bilgi\"",
+    "kaynak": {
+     "yazar": "Yusuf Has Hacib",
+     "eser": "Kutadgu Bilig",
+     "yuzyil": "XI. yy (1069–70)",
+     "tur": "mesnevi"
+    }
+   }
+  ],
+  "ilgili": [
+   "tengri",
+   "gonul"
+  ]
+ },
+ {
+  "id": "gonul",
+  "madde": "gönül",
+  "tur": "kelime",
+  "koken": "T",
+  "donem": [
+   "islam-oncesi",
+   "gecis",
+   "islami",
+   "bati"
+  ],
+  "yazilis": {
+   "osmanli": "كوكل",
+   "ceviri": "göñül",
+   "eski": "köŋül"
+  },
+  "anlamlar": [
+   "Duyguların, sevginin kaynağı sayılan iç dünya; kalp.",
+   "İstek, arzu.",
+   "Tasavvufta: Tanrı'nın tecelli ettiği yer."
+  ],
+  "tamlamalar": [
+   "gönül tahtı",
+   "gönül ehli (ehl-i dil)"
+  ],
+  "deyimler": [
+   "gönül koymak: kırılmak, darılmak",
+   "gönül almak: hatır almak, sevindirmek",
+   "gönlü olmak: istemek, razı olmak"
+  ],
+  "ornekler": [
+   {
+    "metin": "Gönül Çalab'ın tahtı / Çalab gönüle baktı / İki cihan bedbahtı / Kim gönül yıktı ise",
+    "aciklama": "Çalab: Tanrı",
+    "kaynak": {
+     "yazar": "Yunus Emre",
+     "eser": "Dîvân",
+     "yuzyil": "XIII–XIV. yy",
+     "tur": "divan"
+    }
+   }
+  ],
+  "ilgili": [
+   "dil-i nasad",
+   "ask"
+  ]
+ },
+ {
+  "id": "ask",
+  "madde": "aşk",
+  "tur": "kelime",
+  "koken": "Ar",
+  "donem": [
+   "islami",
+   "bati"
+  ],
+  "yazilis": {
+   "osmanli": "عشق",
+   "ceviri": "ʿışḳ"
+  },
+  "anlamlar": [
+   "Aşırı sevgi, tutku.",
+   "Tasavvufta: Tanrı'ya duyulan ilahî sevgi (aşk-ı hakikî)."
+  ],
+  "tamlamalar": [
+   "aşk-ı hakikî (ilahî aşk)",
+   "aşk-ı mecazî (insana duyulan aşk)",
+   "derd-i aşk (aşk derdi)"
+  ],
+  "ornekler": [
+   {
+    "metin": "Aşk imiş her ne var âlemde / İlm bir kîl ü kāl imiş ancak",
+    "aciklama": "kîl ü kāl: dedikodu, boş söz",
+    "kaynak": {
+     "yazar": "Fuzûlî",
+     "eser": "Türkçe Dîvân",
+     "yuzyil": "XVI. yy",
+     "tur": "divan"
+    }
+   }
+  ],
+  "ilgili": [
+   "gonul",
+   "dil-i nasad"
+  ]
+ },
+ {
+  "id": "dil-i nasad",
+  "madde": "dil-i nâşâd",
+  "tur": "tamlama",
+  "koken": "Fa",
+  "donem": [
+   "islami"
+  ],
+  "yazilis": {
+   "osmanli": "دل ناشاد",
+   "ceviri": "dil-i nā-şād"
+  },
+  "anlamlar": [
+   "Neşesiz, kederli gönül. (Fa. dil: gönül; nâ-şâd: sevinçsiz)"
+  ],
+  "ornekler": [
+   {
+    "metin": "Bir safâ bahşedelim gel şu dil-i nâşâde / Gidelim serv-i revânım yürü Sa'dâbâd'e",
+    "aciklama": "serv-i revân: salınarak yürüyen selvi (sevgili)",
+    "kaynak": {
+     "yazar": "Nedîm",
+     "eser": "Dîvân",
+     "yuzyil": "XVIII. yy",
+     "tur": "divan"
+    }
+   }
+  ],
+  "ilgili": [
+   "gonul",
+   "istiare"
+  ]
+ },
+ {
+  "id": "vatan",
+  "madde": "vatan",
+  "tur": "kelime",
+  "koken": "Ar",
+  "donem": [
+   "islami",
+   "bati"
+  ],
+  "yazilis": {
+   "osmanli": "وطن",
+   "ceviri": "vaṭan"
+  },
+  "anlamlar": [
+   "Doğup büyünülen yer, yurt.",
+   "Tanzimat'la birlikte: bir milletin ortak yurdu, anayurt (siyasi anlam)."
+  ],
+  "tamlamalar": [
+   "hubb-ı vatan (vatan sevgisi)",
+   "vatan-perver (vatansever)"
+  ],
+  "ornekler": [
+   {
+    "metin": "Vatanın bağrına düşman dayadı hançerini / Yoğimiş kurtaracak bahtı kara mâderini",
+    "aciklama": "mâder: ana",
+    "kaynak": {
+     "yazar": "Namık Kemal",
+     "eser": "Vaveylâ",
+     "yuzyil": "XIX. yy",
+     "tur": "şiir"
+    }
+   }
+  ],
+  "ilgili": [
+   "hurriyet"
+  ]
+ },
+ {
+  "id": "hurriyet",
+  "madde": "hürriyet",
+  "tur": "kelime",
+  "koken": "Ar",
+  "donem": [
+   "bati"
+  ],
+  "yazilis": {
+   "osmanli": "حريت",
+   "ceviri": "ḥürriyyet"
+  },
+  "anlamlar": [
+   "Özgürlük; Tanzimat ve Meşrutiyet edebiyatının temel kavramlarından."
+  ],
+  "tamlamalar": [
+   "Hürriyet Kasîdesi (Namık Kemal)"
+  ],
+  "ornekler": [],
+  "ilgili": [
+   "vatan"
+  ]
+ },
+ {
+  "id": "teshbih",
+  "madde": "teşbih",
+  "tur": "sanat",
+  "koken": "Ar",
+  "donem": [
+   "islami",
+   "bati"
+  ],
+  "yazilis": {
+   "osmanli": "تشبيه",
+   "ceviri": "teşbīh"
+  },
+  "anlamlar": [
+   "Benzetme sanatı: aralarında ilgi bulunan iki şeyden zayıf olanı güçlü olana benzetmek. Unsurları: benzeyen, kendisine benzetilen, benzetme yönü, benzetme edatı."
+  ],
+  "tamlamalar": [
+   "teşbîh-i beliğ (yalnız iki temel unsurla yapılan benzetme)"
+  ],
+  "ornekler": [],
+  "ilgili": [
+   "istiare"
+  ]
+ },
+ {
+  "id": "istiare",
+  "madde": "istiâre",
+  "tur": "sanat",
+  "koken": "Ar",
+  "donem": [
+   "islami",
+   "bati"
+  ],
+  "yazilis": {
+   "osmanli": "استعاره",
+   "ceviri": "istiʿāre"
+  },
+  "anlamlar": [
+   "Eğretileme: teşbihin temel unsurlarından yalnız biriyle yapılan benzetme. Yalnız kendisine benzetilen söylenirse açık istiâre, yalnız benzeyen söylenirse kapalı istiâre olur."
+  ],
+  "ornekler": [
+   {
+    "metin": "Gidelim serv-i revânım yürü Sa'dâbâd'e",
+    "aciklama": "Sevgili söylenmeden \"salınan selvi\" denerek anılmıştır: açık istiâre.",
+    "kaynak": {
+     "yazar": "Nedîm",
+     "eser": "Dîvân",
+     "yuzyil": "XVIII. yy",
+     "tur": "divan"
+    }
+   }
+  ],
+  "ilgili": [
+   "teshbih",
+   "dil-i nasad"
+  ]
+ },
+ {
+  "id": "damlaya-damlaya",
+  "madde": "Damlaya damlaya göl olur.",
+  "tur": "atasözü",
+  "koken": "T",
+  "donem": [
+   "islami",
+   "bati"
+  ],
+  "yazilis": {},
+  "anlamlar": [
+   "Küçük birikimler zamanla büyük bir varlık oluşturur."
+  ],
+  "ornekler": [],
+  "ilgili": []
+ },
+ {
+  "id": "gonul-koymak",
+  "madde": "gönül koymak",
+  "tur": "deyim",
+  "koken": "T",
+  "donem": [
+   "islami",
+   "bati"
+  ],
+  "yazilis": {},
+  "anlamlar": [
+   "Kırılmak, darılmak, küsmek."
+  ],
+  "ornekler": [],
+  "ilgili": [
+   "gonul"
+  ]
+ }
+]

@@ -1,0 +1,6 @@
+# Bengü — Python gereksinimleri
+# Temel uygulama (sözlük, çeviri, tanıklar, kural tabanlı Rehber) yalnız standart kitaplıkla çalışır.
+# Aşağıdakiler isteğe bağlı anlamsal arama içindir (cekirdek/anlam.py):
+numpy>=2.0
+onnxruntime>=1.20
+tokenizers>=0.20

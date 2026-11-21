@@ -1,0 +1,15 @@
+# Üretilen ve büyük dosyalar (GitHub'da tek dosya sınırı 100 MB):
+# veritabanı ve vektör dizini araclar/aktar.py + araclar/vektor.py ile yeniden üretilir;
+# kurulum dosyası GitHub "Releases" sayfasına eklenir.
+veri/ham/
+veri/bengu.db
+veri/bengu.db.yeni
+veri/vektor.npz
+modeller/e5-small/model_quantized.onnx
+modeller/e5-small/tokenizer.json
+dagitim/
+dist/
+build/
+__pycache__/
+*.pyc
+.venv/

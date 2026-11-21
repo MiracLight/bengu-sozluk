@@ -1,0 +1,312 @@
+[
+ {
+  "id": "yollug-tigin",
+  "ad": "Yollug Tigin (kâtip)",
+  "gorunen": "Yollug Tigin",
+  "yasam": "VIII. yy",
+  "donem": "islam-oncesi",
+  "tur": [
+   "yazıt"
+  ],
+  "gelenek": "Yazıt",
+  "biyografi": "Göktürk hanedanından, Bilge Kağan'ın yeğenidir. Kül Tigin ve Bilge Kağan yazıtlarının metinlerini yazan (bitigçi) olarak bilinir. Bu yazıtlar, Türk adının geçtiği ve Türkçe yazılmış en eski tarihli metinler arasındadır.",
+  "eserler": [
+   {
+    "ad": "Kül Tigin Yazıtı",
+    "tarih": "732",
+    "tur": "yazıt",
+    "not": "Bilge Kağan'ın kardeşi Kül Tigin adına diktirilmiştir; Türk milletine seslenen bir hitabet metnidir."
+   },
+   {
+    "ad": "Bilge Kağan Yazıtı",
+    "tarih": "735",
+    "tur": "yazıt",
+    "not": "Bilge Kağan'ın ölümünden sonra oğlu tarafından diktirilmiştir."
+   }
+  ]
+ },
+ {
+  "id": "kasgarli-mahmud",
+  "ad": "Kaşgarlı Mahmud",
+  "yasam": "XI. yy",
+  "donem": "gecis",
+  "tur": [
+   "sözlükçü"
+  ],
+  "gelenek": "Karahanlı",
+  "biyografi": "Karahanlı soyundan bir dil bilginidir. Türk boylarını dolaşarak derlediği malzemeyle, Araplara Türkçe öğretmek amacıyla Bağdat'ta Dîvânu Lugâti't-Türk'ü yazmış ve Abbasi halifesine sunmuştur.",
+  "eserler": [
+   {
+    "ad": "Dîvânu Lugâti't-Türk",
+    "tarih": "1072–1074",
+    "tur": "sözlük",
+    "not": "Türkçe–Arapça sözlük. İçindeki sav (atasözü), koşuk ve sagu örnekleri İslamiyet öncesi sözlü edebiyatın da başlıca kaynağıdır. Bir dünya haritası içerir."
+   }
+  ]
+ },
+ {
+  "id": "yusuf-has-hacib",
+  "ad": "Yusuf Has Hacib",
+  "yasam": "XI. yy",
+  "donem": "gecis",
+  "tur": [
+   "şair"
+  ],
+  "gelenek": "Karahanlı",
+  "biyografi": "Balasagun'da doğmuştur. Kutadgu Bilig'i 1069–70'te Kaşgar'da tamamlayıp Karahanlı hükümdarı Tabgaç Buğra Han'a sunmuş, kendisine \"Has Hacib\" unvanı verilmiştir.",
+  "eserler": [
+   {
+    "ad": "Kutadgu Bilig",
+    "tarih": "1069–1070",
+    "tur": "mesnevi",
+    "not": "İslami dönemin bilinen ilk Türkçe eseri. Devlet yönetimini Kün Togdı (adalet), Ay Toldı (kut, talih), Ögdülmiş (akıl) ve Odgurmış (akıbet) adlı sembolik kişilerin konuşmalarıyla anlatır."
+   }
+  ]
+ },
+ {
+  "id": "edib-ahmed",
+  "ad": "Edib Ahmed",
+  "yasam": "XII. yy",
+  "donem": "gecis",
+  "tur": [
+   "şair"
+  ],
+  "gelenek": "Karahanlı",
+  "biyografi": "Yüknekli Edib Ahmed, Karahanlı sahasında yaşamış didaktik bir şairdir. Kaynaklara göre doğuştan gözleri görmüyordu.",
+  "eserler": [
+   {
+    "ad": "Atabetü'l-Hakāyık",
+    "tarih": "XII. yy",
+    "tur": "manzum öğüt kitabı",
+    "not": "Bilginin yararı, dilin korunması, cömertlik ve alçakgönüllülük gibi konularda öğütler verir."
+   }
+  ]
+ },
+ {
+  "id": "ahmed-yesevi",
+  "ad": "Ahmed Yesevî",
+  "yasam": "? – 1166",
+  "donem": "gecis",
+  "tur": [
+   "şair"
+  ],
+  "gelenek": "Tekke",
+  "biyografi": "Türkistan'ın Yesi şehrinde yaşamış mutasavvıf ve şairdir, Yesevîlik tarikatının kurucusudur. Tasavvufu hece ölçüsüyle ve sade bir Türkçeyle halka anlatan geleneğin öncüsü sayılır.",
+  "eserler": [
+   {
+    "ad": "Dîvân-ı Hikmet",
+    "tarih": "XII. yy",
+    "tur": "hikmet",
+    "not": "Hikmet adı verilen tasavvufi şiirlerden oluşur; tekke edebiyatının ilk örneklerindendir."
+   }
+  ]
+ },
+ {
+  "id": "yunus-emre",
+  "ad": "Yunus Emre",
+  "yasam": "1240? – 1320?",
+  "donem": "islami",
+  "tur": [
+   "şair"
+  ],
+  "gelenek": "Tekke",
+  "biyografi": "Anadolu tasavvuf şiirinin en büyük temsilcisidir. Tapduk Emre'nin dervişi olduğu rivayet edilir. İlahî aşkı, insan sevgisini ve ölümü sade, içten bir Türkçeyle hem hece hem aruz ölçüsüyle söylemiştir.",
+  "eserler": [
+   {
+    "ad": "Dîvân",
+    "tarih": "XIII–XIV. yy",
+    "tur": "divan",
+    "not": "İlahi ve nefeslerden oluşur; asırlar boyu tekkelerde okunmuştur."
+   },
+   {
+    "ad": "Risâletü'n-Nushiyye",
+    "tarih": "1307–1308",
+    "tur": "mesnevi",
+    "not": "Öğüt verici, tasavvufi bir mesnevidir."
+   }
+  ]
+ },
+ {
+  "id": "fuzuli",
+  "ad": "Fuzûlî",
+  "yasam": "1480? – 1556",
+  "donem": "islami",
+  "tur": [
+   "şair",
+   "nesir"
+  ],
+  "gelenek": "Divan",
+  "biyografi": "Irak'ta (Kerbela, Hille ve Bağdat çevresi) yaşamıştır. Türkçe, Farsça ve Arapça eser vermiştir. Lirizmi ve aşk anlayışıyla Divan şiirinin zirvelerinden sayılır.",
+  "eserler": [
+   {
+    "ad": "Türkçe Dîvân",
+    "tarih": "XVI. yy",
+    "tur": "divan",
+    "not": "Su Kasidesi ve ünlü gazelleri bu divandadır."
+   },
+   {
+    "ad": "Leylâ vü Mecnûn",
+    "tarih": "1535",
+    "tur": "mesnevi",
+    "not": "Konuyu ilahi aşka yükselten, Türk edebiyatının en ünlü mesnevilerinden biridir."
+   },
+   {
+    "ad": "Şikâyetnâme",
+    "tarih": "XVI. yy",
+    "tur": "mektup (mensur)",
+    "not": "Bağlanan maaşını alamayışını alaycı bir dille anlatan mensur mektubudur."
+   }
+  ]
+ },
+ {
+  "id": "baki",
+  "ad": "Bâkî",
+  "yasam": "1526 – 1600",
+  "donem": "islami",
+  "tur": [
+   "şair"
+  ],
+  "gelenek": "Divan",
+  "biyografi": "İstanbul'da doğmuştur. Kanuni devrinin en büyük şairidir ve kendi zamanında \"sultânü'ş-şuarâ\" (şairler sultanı) olarak anılmıştır. Şiirinde dünya zevkleri ve dilin ahengi öne çıkar.",
+  "eserler": [
+   {
+    "ad": "Dîvân",
+    "tarih": "XVI. yy",
+    "tur": "divan",
+    "not": "Kanuni Sultan Süleyman için yazdığı mersiye bu divandadır."
+   }
+  ]
+ },
+ {
+  "id": "karacaoglan",
+  "ad": "Karacaoğlan",
+  "yasam": "XVII. yy",
+  "donem": "islami",
+  "tur": [
+   "şair"
+  ],
+  "gelenek": "Halk",
+  "biyografi": "Güney Anadolu'da (Çukurova ve Toroslar) yaşamış âşık tarzı halk şairidir. Aşk, doğa ve gurbet temalarını sade ve canlı bir dille işlemiştir.",
+  "eserler": [
+   {
+    "ad": "Koşmalar, semailer, varsağılar",
+    "tarih": "XVII. yy",
+    "tur": "halk şiiri",
+    "not": "Şiirleri sözlü gelenekte ve cönklerde yaşamıştır."
+   }
+  ]
+ },
+ {
+  "id": "nedim",
+  "ad": "Nedîm",
+  "yasam": "1681? – 1730",
+  "donem": "islami",
+  "tur": [
+   "şair"
+  ],
+  "gelenek": "Divan",
+  "biyografi": "Lale Devri'nin şairidir. İstanbul'un gündelik hayatını ve eğlence yerlerini şiire taşımıştır. Divan şiirinde \"mahallîleşme\" akımının en güçlü temsilcisidir ve şarkı türünü yaygınlaştırmıştır.",
+  "eserler": [
+   {
+    "ad": "Dîvân",
+    "tarih": "XVIII. yy",
+    "tur": "divan",
+    "not": "Gazel ve şarkılarında Sa'dâbâd ve Boğaziçi gibi mekânlar sıkça geçer."
+   }
+  ]
+ },
+ {
+  "id": "seyh-galib",
+  "ad": "Şeyh Gâlib",
+  "yasam": "1757 – 1799",
+  "donem": "islami",
+  "tur": [
+   "şair"
+  ],
+  "gelenek": "Divan",
+  "biyografi": "Mevlevî şeyhidir ve Galata Mevlevîhanesi'nde postnişinlik yapmıştır. Divan şiirinin son büyük şairi sayılır. Sebk-i Hindî (Hint üslubu) etkisinde, yoğun hayaller kuran bir şiir yazmıştır.",
+  "eserler": [
+   {
+    "ad": "Hüsn ü Aşk",
+    "tarih": "1783",
+    "tur": "mesnevi",
+    "not": "Alegorik bir tasavvuf mesnevisidir; Divan edebiyatının başyapıtlarından sayılır."
+   },
+   {
+    "ad": "Dîvân",
+    "tarih": "XVIII. yy",
+    "tur": "divan",
+    "not": ""
+   }
+  ]
+ },
+ {
+  "id": "namik-kemal",
+  "ad": "Namık Kemal",
+  "yasam": "1840 – 1888",
+  "donem": "bati",
+  "tur": [
+   "şair",
+   "nesir"
+  ],
+  "gelenek": "Yeni",
+  "biyografi": "Tekirdağ'da doğmuştur. Tanzimat edebiyatının en etkili isimlerindendir. Vatan, hürriyet ve millet kavramlarını edebiyata yerleştirdiği için \"vatan şairi\" diye anılır.",
+  "eserler": [
+   {
+    "ad": "Vatan yahut Silistre",
+    "tarih": "1873",
+    "tur": "tiyatro",
+    "not": "Sahnelenmesi büyük etki uyandırmış, yazarı sürgüne gönderilmiştir."
+   },
+   {
+    "ad": "İntibah",
+    "tarih": "1876",
+    "tur": "roman",
+    "not": "Türk edebiyatının ilk edebî romanı sayılır."
+   },
+   {
+    "ad": "Hürriyet Kasîdesi",
+    "tarih": "XIX. yy",
+    "tur": "şiir",
+    "not": "Eski nazım biçimini yeni fikirlerle dolduran şiirlerindendir."
+   },
+   {
+    "ad": "Vaveylâ",
+    "tarih": "XIX. yy",
+    "tur": "şiir",
+    "not": "Vatan sevgisini işleyen şiiri."
+   }
+  ]
+ },
+ {
+  "id": "tevfik-fikret",
+  "ad": "Tevfik Fikret",
+  "yasam": "1867 – 1915",
+  "donem": "bati",
+  "tur": [
+   "şair"
+  ],
+  "gelenek": "Yeni",
+  "biyografi": "Servet-i Fünûn topluluğunun şiir alanındaki öncüsüdür. Aruzu konuşma diline yaklaştırmış, şiirde bütün güzelliğini ve serbest müstezatı kullanmıştır. Toplumsal konulara da eğilmiştir.",
+  "eserler": [
+   {
+    "ad": "Rübâb-ı Şikeste",
+    "tarih": "1900",
+    "tur": "şiir kitabı",
+    "not": "Servet-i Fünûn şiirinin temel kitabıdır."
+   },
+   {
+    "ad": "Sis",
+    "tarih": "1902",
+    "tur": "şiir",
+    "not": "İstanbul'u ve dönemin baskı ortamını sisli bir tabloyla anlatır."
+   },
+   {
+    "ad": "Haluk'un Defteri",
+    "tarih": "1911",
+    "tur": "şiir kitabı",
+    "not": "Oğlu Haluk'a seslenen, geleceğe dönük şiirler."
+   }
+  ]
+ }
+]

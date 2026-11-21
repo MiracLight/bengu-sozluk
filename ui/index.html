@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bengü — Türkçenin Ebedî Sözlüğü</title>
+<!-- Yazı tipleri uygulamaya gömülü: internet olmadan da aynı görünür -->
+<link rel="stylesheet" href="yazitipleri.css">
+<link rel="icon" type="image/png" href="simge.png">
+<link rel="stylesheet" href="stil.css">
+</head>
+<body>
+
+<header class="ust">
+  <div class="ust-ic">
+    <a class="logo" href="#/" title="Ana sayfa">
+      <span class="logo-ad">Bengü</span>
+      <span class="logo-alt">Türkçenin Ebedî Sözlüğü</span>
+    </a>
+
+    <form class="arama" id="aramaFormu" autocomplete="off">
+      <datalist id="oneriler"></datalist>
+      <input id="aramaKutusu" list="oneriler" type="search" placeholder="Kelime, deyim, atasözü ya da beyit arayın… (ör. gönüllerimizde, aşkın)" aria-label="Sözlükte ara">
+      <button type="button" class="osm-tus" id="osmTus" title="Özel harfler">â</button>
+      <button type="submit" class="ara-tus">Ara</button>
+      <div class="ozel-harfler" id="ozelHarfler" hidden></div>
+    </form>
+
+    <button class="baglanti" id="baglantiTus" aria-label="Bağlantı durumu">
+      <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true">
+        <path class="dalga d3" d="M2 8.5a15 15 0 0 1 20 0"/>
+        <path class="dalga d2" d="M5 12a10 10 0 0 1 14 0"/>
+        <path class="dalga d1" d="M8.5 15.5a5 5 0 0 1 7 0"/>
+        <circle cx="12" cy="19" r="1.6"/>
+        <line class="kesik" x1="3" y1="3" x2="21" y2="21"/>
+      </svg>
+      <span class="baglanti-yazi" id="baglantiYazi">Çevrimdışı</span>
+    </button>
+  </div>
+
+  <nav class="sekmeler">
+    <a href="#/" data-sekme="ana">Ana Sayfa</a>
+    <a href="#/rehber" data-sekme="rehber">Rehber ✦</a>
+    <a href="#/ceviri" data-sekme="ceviri">Çeviri ⇄</a>
+    <a href="#/donemler" data-sekme="donemler">Dönemler</a>
+    <a href="#/yazarlar" data-sekme="yazarlar">Yazarlar</a>
+    <a href="#/sanatlar" data-sekme="sanatlar">Edebî Sanatlar</a>
+    <a href="#/kaynaklar" data-sekme="kaynaklar">Kaynaklar</a>
+    <a href="#/defterim" data-sekme="defterim">Defterim</a>
+  </nav>
+  <div class="tezhip-serit" aria-hidden="true"></div>
+</header>
+
+<div class="baglanti-panel" id="baglantiPanel" hidden></div>
+
+<main id="icerik" class="icerik"></main>
+
+<footer class="alt">
+  <div class="tezhip-serit" aria-hidden="true"></div>
+  <p>Bengü · Sözlük verisi: Bengü derlemesi, Vikisözlük, Vikikaynak, Vikisöz (CC BY-SA 4.0 / kamu malı) · Anlam modeli: multilingual-e5-small (MIT). Otomatik atanan dönem ve köken bilgileri uzman denetimi bekliyor.</p>
+</footer>
+
+<div class="bildirim" id="bildirim" role="status" aria-live="polite"></div>
+
+<script src="veri.js"></script>
+<script src="uygulama.js"></script>
+</body>
+</html>

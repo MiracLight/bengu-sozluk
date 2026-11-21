@@ -1,0 +1,3 @@
+Gömülü yazı tipleri: EB Garamond, Amiri, Cinzel Decorative, Noto Sans Old Turkic.
+Hepsi SIL Open Font License 1.1 ile dağıtılır: https://openfontlicense.org
+Kaynak: Google Fonts (fonts.google.com)
